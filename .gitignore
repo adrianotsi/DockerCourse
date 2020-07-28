@@ -1,0 +1,3 @@
+.history/
+.scripts/
+node_mongo_nginx/backend/node_modules/*
